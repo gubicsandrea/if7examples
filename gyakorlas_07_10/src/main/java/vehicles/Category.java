@@ -1,0 +1,5 @@
+package vehicles;
+
+public enum Category {
+    MOUNTAIN_BIKE, CITY_BIKE, TREKKING, ROAD_BIKE, FIXIE, SINGLE_SPEED, RECUMBENT, CARGO_BIKE;
+}
